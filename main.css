@@ -1,6 +1,6 @@
 body{
     background-color: red;
-    color: black;
+    color: rgb(255, 255, 255);
     margin-bottom: 20px;
     margin-left: 13%;
     margin-right: 12%;
@@ -8,4 +8,14 @@ body{
     line-break: auto;
     font-family: Arial, Helvetica, sans-serif;
     
+}
+h1{ 
+    border: 30px solid green;
+    background: green;
+}
+h2 {
+    border: 10px solid white;
+    background: white;
+    text-emphasis-color: green;
+
 }
